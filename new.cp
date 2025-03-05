@@ -1,1 +1,1 @@
-update 1 new.cp
+new update new.cp
